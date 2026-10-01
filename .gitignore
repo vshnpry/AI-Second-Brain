@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+*.key
+secrets/
+
+# AI Second Brain generated files
+second_brain_memory/
+memory_data.pkl
+faiss.index
+knowledge_graph.pkl
+knowledge_graph.png
+
+# Google Colab
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
